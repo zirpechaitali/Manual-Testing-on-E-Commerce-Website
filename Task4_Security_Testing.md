@@ -31,7 +31,7 @@
 - XSS scripts should not execute or be reflected back in the response.  
 - Passwords should be stored using secure hashing algorithms (e.g., bcrypt, SHA-256).
 
----
+
 
 ## **Actual Results**
 - SQL Injection attempts were successfully blocked, preventing login bypass.  
