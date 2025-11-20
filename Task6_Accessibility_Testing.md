@@ -5,7 +5,6 @@
 - Validate screen reader compatibility.
 - Test keyboard-only navigation.
 - Test color contrast and WCAG compliance.
-
 ---
 
 ## **Test Case**
